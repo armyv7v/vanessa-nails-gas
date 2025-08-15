@@ -1,0 +1,8 @@
+vanessa-nails/
+├── public/
+│   ├── index.html         # Pantalla de servicios
+│   ├── seleccion-fecha.html # Pantalla de fecha/hora
+│   ├── confirmacion.html  # Pantalla final
+│   ├── styles.css         # Estilos compartidos
+│   └── script.js          # Lógica común
+└── vercel.json
